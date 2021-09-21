@@ -1,0 +1,54 @@
+/*--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+--*/
+html, body{
+    font-size: 100%;
+	font-family: 'Roboto Condensed', sans-serif;
+	background: rgba(0,0,0,.8);
+}
+ul li,ol li{
+	font-size:14px;
+}
+p{
+	margin:0;
+	font-size:0.9em;
+}
+h1,h2,h3,h4,h5,h6,a{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin:0;
+}
+ul,label{
+	margin:0;
+	padding:0;
+}
+body a:hover{
+	text-decoration:none;
+}
+input[type="submit"],.agileinfo_chat a,.w3ls_footer_grid1_left p a,.w3l_sign_in_register ul li a,.w3ls_footer_grid1_right ul li a,.w3_customer_email_right a,ul.dropdown-menu.multi-column ul li a{
+	transition:.5s ease-in;
+	-webkit-transition:.5s ease-in;
+	-moz-transition:.5s ease-in;
+	-o-transition:.5s ease-in;
+	-ms-transition:.5s ease-in;
+}
+/*-- header --*/
+.header {
+    padding: 1em 0;
+	border-top: 3px solid #C03;
+}
+nav.dark1{
+	background: rgba(0,0,0,.8);
+	height: 90px;
+	padding: 10px 30px;
+	border: none;
+}
+nav.dark1 img{
+	height: 60px;
+	width:85px;
+}
+nav{
+	background: rgba(0,0,0,.5);
+	}

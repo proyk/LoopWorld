@@ -1,0 +1,87 @@
+body
+{
+background-image:url(images/backg.jpg);
+
+height:100%;
+background-size:cover;
+background-position:center;
+
+}
+.reg-form
+{
+  margin-left:550px;
+  width:auto;
+  
+  height:auto;
+  border-radius:20px;
+}
+
+.form
+{
+position:absolute;
+background:#333333;
+max-width:360px;
+
+padding:30px;
+text-align:center;
+
+}
+.in
+{
+
+background-color:transparent;
+width:100%;
+	margin:0 0 15px;
+height:30px;
+padding:10px;
+font-size:20px;
+color:#FFF;
+text-align:center;
+border-radius:10.5px;
+border-style:groove;
+border-bottom:hidden;
+
+}
+.btn
+{
+text-transform:uppercase;
+background:#F36;
+width:100%;
+border:0;
+padding:15px;
+color:#FFFFFF;
+cursor:pointer;
+border-radius:12.5px;
+font-size:20px;
+}
+a
+{
+color:#F36
+}
+select
+{
+height:30px;
+width:300px;
+font-size:15px;
+background-color:transparent;
+color:#FFF;
+border-radius:10.5px;
+text-align:center;
+border-style:groove;
+border-bottom:hidden;
+}
+h1
+{
+color:#F36;
+}
+
+
+
+.login
+{
+	margin-top:108px;
+}
+h4
+{
+	color:#FFF;
+}
